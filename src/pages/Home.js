@@ -28,6 +28,7 @@ export default function Home() {
     return () => clearInterval(timer);
   }, [typingStarted, timeLeft, dispatch]);
 
+  
 
   function changeHandler(e)  {
       if(!typingStarted) setTypingStarted(true);
@@ -53,7 +54,7 @@ export default function Home() {
   }
 
   return (
-    <div className='flex flex-col h-screen relative ' >
+    <div className='flex flex-col h-screen relative bg-[#161D29] ' >
       
       <div className='bg-[#161D29] min-h-screen' >
 
@@ -62,9 +63,19 @@ export default function Home() {
           <div>Time {typingStarted ? `left` : ''} : {timeLeft}s </div>
       </div>
 
-      <label className="flex flex-col items-center justify-center space-y-4 p-4  ">
+      <label className="flex flex-col items-center justify-center space-y-4 p-4 bg-[#161D29]  ">
           {/* <span className='flex' >{timeLeft}s </span> */}
           <p className='bg-gray-800 max-w-[1300px]  text-white text-xl opacity-70 tracking-wider leading-relaxed p-4 rounded-lg shadow-md' >
+              
+              <input
+                type='text'
+                value={userInput}
+                onChange={changeHandler}
+                disabled={isTimeUp}
+                className= 'sr-only '
+            
+              />
+              
               {
                 originalInput.split('').map((char, index) => {
                   return <span key={index} className={index < userInput.length ? 
@@ -75,14 +86,7 @@ export default function Home() {
                 })
               }
 
-              <input
-                type='text'
-                value={userInput}
-                onChange={changeHandler}
-                disabled={isTimeUp}
-                className='sr-only'
-
-              />
+    
           </p>
       </label>
     
