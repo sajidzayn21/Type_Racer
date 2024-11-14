@@ -1,3 +1,31 @@
+@keyframes blink {
+  0%, 100% { text-decoration-color: transparent; }
+  50% { text-decoration-color: white; }
+}
+
+.blink-underline {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  animation: blink 1s infinite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .App {
   text-align: center;
 }

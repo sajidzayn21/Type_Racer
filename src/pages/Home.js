@@ -34,7 +34,8 @@ export default function Home() {
       if(!typingStarted) setTypingStarted(true);
       if(isTimeUp) return;
 
-      dispatch(setInput(e.target.value))
+      dispatch(setInput(e.target.value));
+      
   }
 
   function handleReset() {
@@ -65,7 +66,7 @@ export default function Home() {
 
       <label className="flex flex-col items-center justify-center space-y-4 p-4 bg-[#161D29]  ">
           {/* <span className='flex' >{timeLeft}s </span> */}
-          <p className='bg-gray-800 max-w-[1300px]  text-white text-xl opacity-70 tracking-wider leading-relaxed p-4 rounded-lg shadow-md' >
+          <p className='bg-gray-800 max-w-[1300px]  text-white text-xl opacity-80 tracking-wider leading-relaxed p-4 rounded-lg shadow-md' >
               
               <input
                 type='text'
@@ -78,9 +79,16 @@ export default function Home() {
               
               {
                 originalInput.split('').map((char, index) => {
-                  return <span key={index} className={index < userInput.length ? 
-                    results[index] === 'correct' ? 'text-gray-500' : 'text-red-500'
-                    : 'text-white' } >
+                  return <span key={index} 
+                          className={`
+                            ${index < userInput.length ? 
+                              results[index] === 'correct' ? 
+                              'text-gray-400' : 'text-red-500' 
+                              : 'text-white  '
+                            } 
+                            ${index === userInput.length && typingStarted ? 'blink-underline' : ''}
+                          `}
+                  >
                     {char}
                   </span>
                 })
