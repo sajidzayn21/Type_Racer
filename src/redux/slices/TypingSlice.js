@@ -12,6 +12,7 @@ const initialState = {
     isTimeUp : false,
     results:[],
     totalWords:0,
+    minSpeed: TextLevel.levels[0].minSpeed,
 }
 
 console.log("initial state")
@@ -63,6 +64,7 @@ export const TypingSlice = createSlice({
             state.results = [];
             state.totalTime = TextLevel.levels[x].timeLimitSeconds
             state.totalWords = 0;
+            state.minSpeed = TextLevel.levels[x].minSpeed;
         }
 
     }

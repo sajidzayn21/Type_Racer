@@ -5,147 +5,168 @@
         "timeLimitSeconds": 60,
         "texts": [
           "life is a journey filled with ups and downs, a path that we walk with hopes and dreams in our hearts. each day brings new challenges and opportunities, testing our strength and resilience. we learn from our mistakes, grow from our experiences, and strive to become better versions of ourselves. kindness and compassion are the lights that guide us through the darkest times, while perseverance keeps us moving forward. as we travel this road, we encounter different people, each with their own stories and lessons to share. the beauty of life lies in its unpredictability, reminding us that even in moments of uncertainty, there is always the potential for growth and positive change"
-        ]
+        ],
+        "minSpeed" : 10
       },
       {
         "level": 2,
         "timeLimitSeconds": 60,
         "texts": [
           "existence unfolds as an intricate tapestry, where every moment weaves threads of uncertainty, resilience, and profound introspection. navigating through this labyrinthine journey, one encounters an amalgamation of experiences that challenge the core of our identity and beliefs. the perpetual oscillation between joy and sorrow elucidates the transient nature of emotions, prompting a deeper cognizance of life’s ephemeral essence. adversity often serves as a catalyst for metamorphosis, compelling individuals to confront their limitations and transcend beyond perceived boundaries. empathy and altruism emerge as invaluable virtues, fostering connections that resonate on a profound level. the inexorable passage of time reiterates that the pursuit of purpose is not a linear path, but a dynamic endeavor shaped by introspective revelations and fortuitous encounters"
-        ]
+        ],
+        "minSpeed" : 13   
       },
       {
         "level": 3,
         "timeLimitSeconds": 60,
         "texts": [
           "apple is a popular fruit known for its numerous health benefits and nutritional value being rich in dietary fiber it helps to improve digestion and supports a healthy gut which can prevent constipation and promote regular bowel movements the high fiber content also helps to control blood sugar levels by slowing down the absorption of sugar in the bloodstream apples are low in calories and contain natural sugars making them a suitable choice for weight management the antioxidants present in apples such as vitamin c and flavonoids contribute to reducing the risk of chronic diseases by neutralizing harmful free radicals in the body consuming apples regularly may also support heart health as they contain soluble fiber which can help lower bad cholesterol levels the presence of potassium in apples promotes better heart function and helps to maintain healthy blood pressure levels apples also contain a range of vitamins and minerals that contribute to overall well-being including vitamins a and e which support eye health and skin vitality the natural sweetness of apples can be a healthier alternative to sugary snacks helping to reduce cravings and prevent weight gain overall incorporating apples into a balanced diet can offer various benefits for maintaining good health and well-being"        
-        ]
+        ],
+        "minSpeed" : 18
       },
       {
         "level": 4,
         "timeLimitSeconds": 120,
         "texts": [
           "human consciousness remains a profound enigma, where cognition operates within a realm of abstract thought and intricate reasoning. amidst the dichotomy of certainty and doubt, individuals embark on a perpetual quest for enlightenment, striving to comprehend the multifaceted layers of reality. the inherent ambiguity of existence necessitates a continuous reappraisal of perspectives, fostering intellectual growth and philosophical inquiry. in this labyrinth of understanding, curiosity serves as the impetus for profound discoveries, while complacency stifles the evolution of ideas. introspection reveals the nuanced interplay between instinct and rationality, challenging preconceived notions and expanding the boundaries of awareness. as time progresses, each moment contributes to an evolving narrative, where experiences intertwine, forming a complex mosaic of perception and self-awareness"
-        ]
+        ],
+        "minSpeed" : 23
       },
       {
         "level": 5,
         "timeLimitSeconds": 60,
         "texts": [
           "Life is a Journey filled with Unexpected Twists and Turns. Along the way, People often Encounter Moments of Joy, as well as Times of Difficulty. It is during these Challenges that True Strength is Revealed. The Power of Perseverance helps Individuals push past their Limits, allowing them to Grow and Learn from each Experience. Embracing Change can be Daunting, but it also Brings Opportunities for New Beginnings. With each Step Forward, a Person Builds Confidence and Resilience. Moments of Reflection Offer a Chance to Appreciate Small Victories and Learn from Mistakes. In the End, Life is about Finding Balance, Creating Meaningful Connections, and Discovering the Courage to Keep Moving Forward"
-        ]
+        ],
+        "minSpeed" : 30
       },
       {
         "level": 6,
         "timeLimitSeconds": 60,
         "texts": [
           "The Intricacies of Human Existence Unravel Profound Philosophical Quandaries, Invoking a Persistent Search for Ephemeral Truths. Amidst this Perpetual Pursuit, Individuals Encounter a Mosaic of Ambiguities and Anomalies that Challenge Established Paradigms. The Convergence of Cognitive Faculties and Emotional Resonance Catalyzes a Synergy, Enabling the Elucidation of Multifaceted Realities. As People Traverse the Labyrinth of Life, they are Compelled to Confront Paradoxical Dichotomies, Engendering an Introspective Reassessment of Ingrained Beliefs. Through Tenacity and Contemplation, they Discern Nuances that Transcend the Superficial. It is in the Embrace of these Existential Conundrums that True Enlightenment is Attained. Ultimately, the Amalgamation of Experience, Reflection, and Insight Cultivates an Enduring Fortitude that Propels the Human Spirit toward Uncharted Horizons"
-        ]
+        ],
+        "minSpeed" : 35
       },
       {
         "level": 7,
         "timeLimitSeconds": 60,
         "texts": [
           "The Quintessential Nature of Human Cognition Manifests in an Elaborate Amalgamation of Epistemological Paradigms and Ontological Postulations, Unveiling an Intricate Tapestry of Existential Dichotomies. As Individuals Perambulate through the Vicissitudes of Life, they are Inevitably Confronted with an Abstruse Confluence of Empirical Realities and Metaphysical Intuitions, Necessitating an Exegetical Approach to Decipher the Esoteric Enigmas Encapsulated within. The Dialectical Process of Synthesizing Disparate Ideations Engenders a Metamorphosis in Perceptual Constructs, Catalyzing a Paradigmatic Shift that Transcends Conventional Modalities of Thought. In the Pursuit of Sagacious Insight, one Must Navigate the Labyrinthine Corridors of Human Consciousness, wherein the Juxtaposition of Paradoxical Proclivities Incites Profound Ontological Introspection. It is through the Discernment of Subtle Nuances and the Embrace of Intellectual Ambiguities that the Ephemeral Nature of Absolute Truth becomes Apparent, Propelling the Human Spirit Toward an Eclipsed Zenith of Enlightenment, Beyond the Penumbra of Mundane Comprehension"
-        ]
+        ],
+        "minSpeed" : 40
       },
       {
         "level": 8,
         "timeLimitSeconds": 60,
         "texts": [
           "The Inextricable Link between Conscious Awareness and the Subconscious Psyche Constitutes a Profound Enigma, where Intricate Interplays of Psychological Archetypes Emerge. Human Perception is Governed by an Ever-evolving Amalgam of Innate Predilections and Acquired Tendencies, Rendering a Dichotomous Pathway of Existential Inquiry. As we Traverse the Cognitive Continuum, our Minds are Compelled to Grapple with the Ineffable Mysteries Encapsulated within the Temporal Fabric of Reality. The Conflation of Tangible Experiences and Ethereal Concepts Provokes a Metaphysical Disquietude that Transcends Simple Epistemological Categorization. In Delving into the Labyrinth of Self-awareness, One Must Embrace a State of Perpetual Uncertainty, Forsaking Dogmatic Certainties in Favor of an Open-ended Epistemic Exploration. It is through this Process that the Elusive Nature of Human Understanding Gradually Unfolds, Allowing for a Nuanced Comprehension of the Multifarious Realities that Reside Beyond the Superficial Facade"
-        ]
+        ],
+        "minSpeed" : 45
       },
       {
         "level": 9,
         "timeLimitSeconds": 60,
         "texts": [
           "Human Cognition is a Perplexing Confluence of Neuronal Interactions and Abstract Theoretical Constructs, Yielding an Ephemeral Understanding of the Cosmos. As Individuals, we are Imbued with an Innate Tendency to Seek Coherence within the Chaotic Flux of Sensory Perception, an Undertaking that often Involves Reconciling Contradictory Phenomena. The Intricacies of Conscious Awareness are Manifested in a Complex Network of Interwoven Thoughts, Ideas, and Emotions, each Possessing its Own Unique Ontological Significance. The Pursuit of Epistemological Certainty is Marked by an Endless Cycle of Inquiry, where the Boundaries between Empirical Observation and Speculative Postulation Blur. In this Ever-shifting Landscape of Mental Phenomena, the Human Mind must Adapt to the Paradoxical Nature of Existence, Recognizing that Absolute Truth is Perpetually Elusive. Through this Dynamic Process, we Strive to Attain a Deeper Understanding of our Place within the Universe."
-        ]
+        ],
+        "minSpeed" : 50
       },
       {
         "level": 10,
         "timeLimitSeconds": 90,
         "texts": [
           "The Intrinsic Complexity of Human Emotion Eclipses any Simplistic Characterization, as it is Rooted in an Incomprehensible Array of Biopsychosocial Interactions. The Amalgamation of Neurochemical Signals, Environmental Stimuli, and Individual Perceptions Creates a Multifaceted Phenomenon that Defies Conventional Explanation. As People Experience the Perennial Ebbs and Flows of Emotional States, they Encounter a Myriad of Cognitive and Affective Paradoxes, with Each Nuanced Response Conveying Layers of Subtextual Meaning. The Interplay between Rational Deliberation and Irrational Impulse is an Incessant Dance that Shapes our Emotional Trajectories. To Delve into the Depths of Human Affect is to Traverse an Intellectual Labyrinth, where the Boundaries between Real and Imaginary are Obfuscated. By Embracing these Psychological Complexities, we Uncover Insights into the Innermost Recesses of the Mind, Ultimately Cultivating an Enhanced Capacity for Emotional Resilience and Empathic Understanding"
-        ]
+        ],
+        "minSpeed" : 55
       },
       {
         "level": 11,
         "timeLimitSeconds": 90,
         "texts": [
           "The Philosophical Implications of Quantum Mechanics Pose an Existential Quandary, as the Very Act of Measurement Appears to Influence the Nature of Reality Itself. Within the Realm of Subatomic Particles, the Classical Notions of Determinism and Objective Reality are Cast into Doubt, Giving Rise to a Paradigm where Probabilistic Outcomes Reign Supreme. This Quantum Indeterminacy Challenges Traditional Epistemological Frameworks, Demanding an Ontological Reassessment of the Fundamental Structure of the Universe. The Conundrum of Schrödinger’s Cat Exemplifies the Counterintuitive Consequences of Quantum Superposition, where an Entity Exists Simultaneously in Multiple States. To Grapple with the Paradoxes Inherent in Quantum Theory is to Embark on a Profound Journey of Intellectual Discovery, where the Boundaries between the Observed and the Observer Become Ambiguously Intertwined, Defying the Conventional Dichotomies that have Long Defined Human Understanding"
-        ]
+        ],
+        "minSpeed" : 60
       },
       {
         "level": 12,
         "timeLimitSeconds": 90,
         "texts": [
           "The Dialectical Method as Expounded by Hegel Suggests that the Evolution of Ideas is an Ongoing Process of Thesis, Antithesis, and Synthesis. This Hegelian Triad Implies that Human Understanding is Inherently Dynamic, Constantly Shaped by the Tension between Contradictory Forces. The Process of Dialectical Reasoning Reveals that Ideas are not Stagnant, but Continuously Evolve in Response to External Challenges and Internal Contradictions. Through the Dialectical Resolution of these Conflicts, a Higher Level of Understanding is Achieved, though it is by No Means Absolute. The Implications of this Method Extend beyond Abstract Thought into the Realms of Social and Political Change, where the Forces of Progress and Reaction Collide in a Perpetual Struggle for Supremacy. In Embracing the Fluid Nature of Human Knowledge, we are Better Equipped to Navigate the Complexities of the Modern World"
-        ]
+        ],
+        "minSpeed" : 65
       },
       {
         "level": 13,
         "timeLimitSeconds": 90,
         "texts": [
           "The Existentialist Perspective Contends that Life is Inherently Meaningless, and that it is the Responsibility of Each Individual to Forge their Own Purpose amidst the Absurdity. This Philosophical Stance Emphasizes the Primacy of Personal Freedom and the Weight of Existential Responsibility, as we are Confronted with the Knowledge of our Own Mortality. The Angst that Accompanies this Realization can be Both Paralyzing and Liberating, as it Forces us to Confront the Fragility of our Existence. Through Acts of Will and Authentic Choice, we are Capable of Creating Meaning where None Exists, Transcending the Boundaries Imposed by a Hostile or Indifferent Universe. The Path to Authenticity is Fraught with Uncertainty, but it is Through this Very Struggle that the Depths of Human Potential are Fully Realized, Offering a Glimpse into the Profound Mysteries of Being."
-        ]
+        ],
+        "minSpeed" : 70
       },
       {
         "level": 14,
         "timeLimitSeconds": 90,
         "texts": [
           "The Phenomenon of Cognitive Dissonance, where an Individual Holds Contradictory Beliefs or Behaviors, Provokes a State of Psychological Discomfort that Necessitates Resolution. This Internal Conflict is a Central Theme in the Study of Social Psychology, Offering Insight into the Mechanisms that Underlie Human Rationalization and Self-justification. When Confronted with Inconsistencies, the Mind Employs Various Cognitive Strategies to Alleviate the Disparity, including the Modification of Beliefs or the Downplaying of the Inconsistent Information. The Process by which Cognitive Dissonance is Resolved Reveals the Extent to which Human Thought is Subject to Bias and Rationalization. This Understanding of the Human Psyche Not Only Sheds Light on Individual Behavior but also on Broader Social Phenomena, where Collective Beliefs are Shaped by the Same Mechanisms that Govern Personal Cognitive Adjustments"
-        ]
+        ],
+        "minSpeed" : 75
       },
       {
         "level": 15,
         "timeLimitSeconds": 90,
         "texts": [
           "In the Discourse on Free Will, Determinism Posits that All Events, Including Human Actions, are the Consequence of Preceding Causes, Rendering the Notion of Autonomous Agency Illusory. This Philosophical Stance Suggests that Choice is Merely an Epiphenomenon of a Deterministic Chain of Events, Guided by the Immutable Laws of Nature. The Implications for Moral Responsibility are Profound, as they Challenge the Traditional View that Individuals are Accountable for their Actions. However, the Compatibilist Perspective Argues that Free Will is Not Mutually Exclusive with Determinism, but Rather, Coexists in a Harmonious Relationship. The Ability to Act in Accordance with One's Desires and Rational Deliberations, Even if Determined by Prior Causes, is Seen as Sufficient for Moral Agency. This Nuanced Approach to the Problem of Free Will Offers a Balanced Understanding of Human Autonomy in a Causally Determined World"
-        ]
+        ],
+        "minSpeed" : 80
       },
       {
         "level": 16,
         "timeLimitSeconds": 90,
         "texts": [
           "The Multiverse Theory Postulates the Existence of an Infinite Number of Parallel Universes, Each with its Own Unique Set of Physical Laws and Constants. This Hypothesis Challenges the Singular Nature of the Cosmos, Suggesting that our Universe is but One Among an Unfathomable Plenitude of Alternate Realities. The Concept of the Multiverse Stems from Quantum Mechanics and String Theory, where the Probabilistic Nature of Subatomic Particles Leads to a Branching of Possible Outcomes. The Implications for Human Existence are Profound, as it Raises Questions about the Nature of Reality, Identity, and the Limits of Human Knowledge. In Embracing the Multiverse as a Plausible Framework, we Acknowledge the Vastness of the Unknown and the Intrinsic Limitations of our Epistemic Endeavors, while Simultaneously Expanding the Boundaries of Imaginative Thought."
-        ]
+        ],
+        "minSpeed" : 85
       },
       {
         "level": 17,
         "timeLimitSeconds": 90,
         "texts": [
           "The Ontological Argument, First Formulated by Anselm of Canterbury, Attempts to Prove the Existence of a Supreme Being Through the Concept of Necessary Existence. It Posits that if One Can Conceive of a Being than which Nothing Greater can be Conceived, then it Must Exist in Reality as well as in the Mind. This Argument has Provoked Intense Debate Among Philosophers, with Critics Arguing that the Conceptual Existence of a Being Does Not Necessitate its Actual Existence. The Ontological Argument is Part of a Broader Category of A Priori Arguments, which Seek to Establish the Existence of God Based on Reason Alone, Without Empirical Evidence. The Debate Surrounding this Argument Continues to Illustrate the Limitations of Human Reasoning when Grappling with the Metaphysical and Transcendent Dimensions of Existence"
-        ]
+        ],
+        "minSpeed" : 90
       },
       {
         "level": 18,
         "timeLimitSeconds": 90,
         "texts": [
           "Art in all its forms inspires creativity and self-expression, allowing individuals to communicate feelings and ideas that words cannot capture. Whether through painting, music, or dance, art has the power to evoke deep emotions and provoke thought. It challenges societal norms, encourages dialogue, and fosters a sense of community among those who appreciate it. By engaging with art, we not only enrich our own lives but also contribute to a cultural legacy that reflects the diverse tapestry of human experience."
-        ]
+        ],
+        "minSpeed" : 95
       },
       {
         "level": 19,
         "timeLimitSeconds": 90,
         "texts": [
           "Innovation is the driving force behind progress, as new ideas and technologies continuously shape our lives. Embracing change and thinking outside the box allows us to find solutions to complex problems and build a better future. The rapid pace of technological advancement can be overwhelming, but it also offers unparalleled opportunities for growth and discovery. By fostering a culture of creativity and collaboration, we can harness the power of innovation to address pressing challenges and enhance the quality of life for all."
-        ]
+        ],
+        "minSpeed" : 100
       },
       {
         "level": 20,
         "timeLimitSeconds": 90,
         "texts": [
           "The journey of self-discovery is a lifelong process, requiring introspection and a willingness to grow. By exploring our passions and confronting our fears, we gain a deeper understanding of ourselves and our place in the world. Each experience, whether positive or negative, shapes our identity and informs our values. Embracing this journey allows us to cultivate resilience, empathy, and authenticity, ultimately leading to a more fulfilling and purpose-driven life."
-        ]
+        ],
+        "minSpeed" : 105
       },
       {
         "level": 21,
         "timeLimitSeconds": 90,
         "texts": [
           "Every individual's story is unique, shaped by experiences, choices, and relationships. Embracing our narratives and learning from our past can empower us to create a brighter future and make meaningful contributions to society. By sharing our stories, we can foster understanding and connection among diverse groups, breaking down barriers and building a more inclusive community. It is through these exchanges that we can collectively address challenges and celebrate the richness of our shared human experience."
-        ]
+        ],
+        "minSpeed" : 115
       }
     ]
   }
