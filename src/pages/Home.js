@@ -18,6 +18,7 @@ export default function Home() {
   console.log(originalInput);
   
 
+  
   useEffect(() => {
     let timer;
     if (typingStarted && timeLeft > 0) {
