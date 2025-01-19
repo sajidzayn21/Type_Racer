@@ -31,7 +31,6 @@ export default function Home() {
     }
     return () => clearInterval(timer);
   }, [typingStarted, timeLeft, dispatch]);
-
   
 
   function changeHandler(e)  {
