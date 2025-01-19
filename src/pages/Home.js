@@ -14,11 +14,11 @@ export default function Home() {
 
   const { width, height } = useWindowSize()
 
-  console.log("original Input  : ")
-  console.log(originalInput);
+  // console.log("original Input  : ")
+  // console.log(originalInput);
   
 
-  
+
   useEffect(() => {
     let timer;
     if (typingStarted && timeLeft > 0) {
