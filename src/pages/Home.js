@@ -101,8 +101,7 @@ export default function Home() {
                   </span>
                 })
               }
-
-    
+   
           </p>
       </label>
     
